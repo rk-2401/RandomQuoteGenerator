@@ -6,15 +6,16 @@
         margin: auto;
         text-align: center;
         background:tomato;
-        padding-top: 10vw;
+    
     }
     #quote-box{
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        margin-top: 40vw;
+
         margin: auto;
-        flex-basis: 45vh;
+        margin-top: 23vh;
+        flex-basis: 300px;
         width: 40vw;
         background-color:white;
         padding: 1.5vw;
@@ -106,7 +107,6 @@
             padding-top: 2.5vw;
             width: 10vw;
             height: 10vw;
-            border-radius:0.7vw;
         }
         #buttons{
             padding-bottom: 3vw;
